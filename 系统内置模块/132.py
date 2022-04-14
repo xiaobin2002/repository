@@ -1,17 +1,6 @@
 import pickle
 import json
 import numpy as np
-
-a=3
-print(id(a))
-a=2
-print(id(a))
-a=4
-print(id(a))
-a=5
-print(a)
-
-
 # vars='hello world'
 # res=pickle.dumps(vars)
 # # res=pickle.loads(b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00\x8c\x0bhello world\x94.')
