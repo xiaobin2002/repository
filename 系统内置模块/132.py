@@ -7,6 +7,7 @@ print(id(a))
 a=2
 print(id(a))
 a=4
+print(id(a))
 
 
 # vars='hello world'
